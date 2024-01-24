@@ -1,8 +1,6 @@
 ## Susan Sontag response
 
-- apples  
-- oranges  
-- bananas
+![godzilla](images/gojira_poster.jpg)
 
 
 
