@@ -1,6 +1,6 @@
 ## Susan Sontag response
 
-![godzilla](images/gojira_poster.jpg)
+![godzilla](images/gojira_poster.jpg "Godzilla Poster")
 
 
 
